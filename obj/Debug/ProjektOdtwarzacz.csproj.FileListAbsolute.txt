@@ -1,0 +1,14 @@
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.csprojAssemblyReference.cache
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.csproj.ResolveComReference.cache
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.Form1.resources
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.Properties.Resources.resources
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.csproj.GenerateResource.cache
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\bin\Debug\ProjektOdtwarzacz.exe.config
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\bin\Debug\ProjektOdtwarzacz.exe
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\bin\Debug\ProjektOdtwarzacz.pdb
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.exe
+C:\Users\Adrian\Desktop\jaszuk projekt\ProjektOdtwarzacz\ProjektOdtwarzacz\obj\Debug\ProjektOdtwarzacz.pdb
