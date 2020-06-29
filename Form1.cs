@@ -9,7 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ProjektOdtwarzacz
-{
+{   /// <summary>
+    /// definicja klasy 
+    /// </summary>
     public partial class Form1 : Form
     {
         string videoPath, videoTytul;
